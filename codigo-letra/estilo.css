@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}
+
+#cod {
+	background-color: #ccc;
+	border-radius: 10px;
+	padding: 10px;
+	width: 300px;
+	height: 90px;
+}
+
+#dig {
+	font-family: Sans-Serif;
+	font-size: 20pt;
+}
+
+#ver {
+	position: relative;
+	float: right;
+	margin-top: 10px;
+}
+
+#val {
+	font-size: 13pt;
+	width: 30px;
+}
+
+.c {
+	text-decoration: underline;
+}

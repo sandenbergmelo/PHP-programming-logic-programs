@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+/* ====================================== */
+/* Formatação para os textos */
+
+body {
+	font-family: Sans-Serif;
+}
+
+/* ====================================== */
+/* Formatação para a div da calculadora */
+
+.calc {
+	background-color: #ccc;
+	padding: 10px 20px 20px 20px;
+	width: 295px;
+	border-radius: 10px;
+}
+
+/* ===================================== */
+/* Formatação para o texto "Calculadora" */
+
+h2 {
+	margin: 0;
+}
+
+/* ===================================== */
+/* Formatação para as caixas numéricas */
+
+.caixa {
+	width: 80px;
+	height: 30px;
+	padding: 2px;
+	font-size: 13pt;
+}
+
+/* =================================== */
+/* Formatação para a escolha de operação */
+
+#opcao {
+	height: 30px;
+	width: 50px;
+	font-size: 16pt;
+	text-align: center;
+	vertical-align: center;
+}
+
+/* ===================================== */
+/* Formatação para os botões */
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}
+
+/* ===================================== */
+/* Formatação para o botão de submit "=" */
+
+#igual {
+	padding: 1px 10px 2px 10px;
+	width: 45px;
+	height: 35px;
+	font-size: 20pt;
+	position: relative;
+	top: 5px;
+	margin: 10px 0px 10px 10px;
+}
+
+/* ===================================== */

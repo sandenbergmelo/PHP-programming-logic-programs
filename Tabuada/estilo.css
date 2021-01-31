@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}
+
+#nu {
+	font-size: 18pt;
+	margin-right: 10px;
+}
+
+#tab {
+	background-color: #ccc;
+	padding: 10px;
+	border-radius: 10px;
+	width: 240px;
+}
+
+#vol {
+	position: relative;
+	float: right;
+	bottom: 50px;
+}

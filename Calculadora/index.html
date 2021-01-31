@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta name="author" content="Sandenberg Ferreira Melo"/>
+	<meta name="viewport" content="width=device-width" />
+	<meta charset="UTF-8" />
+	<title>Calculadora</title>
+	<link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+	<div class="calc">
+		<h2>Calculadora</h2>
+		<form method="get" action="calc.php">
+			<input class="caixa" type="number" name="a" placeholder="X" required />
+			<select id="opcao" name="op">
+				<option value="1"> + </option>
+				<option value="2"> - </option>
+				<option value="3"> x </option>
+				<option value="4"> / </option>
+				<option value="5"> ^ </option>
+				<option value="6"> % </option>
+			</select>
+			<input class="caixa" type="number" name="b" placeholder="Y" required />
+			<input id="igual" class="botao" type="submit" value="=" />
+		</form>
+	</div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+#a {
+	background-color: #ccc;
+	border-radius: 10px;
+	padding: 15px;
+	width: 270px;
+	height: 170px;
+}
+
+#nome {
+	font-size: 13pt;
+}
+
+.n {
+	width: 40px;
+	font-size: 13pt;
+}
+
+#m {
+	position: relative;
+	left: 110px;
+	bottom: 50px;
+}
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}
+
+span {
+	font-size: 25pt;
+}

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+#pernas {
+	background-color: #ccc;
+	padding: 10px;
+	border-radius: 10px;
+	width: 270px;
+}
+
+#qp {
+	font-size: 15pt;
+	height: 30px;
+	width: 60px;
+}
+
+#e {
+	margin-left: 10px;
+}

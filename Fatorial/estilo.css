@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.num {
+	width: 50px;
+	height: 30px;
+	font-size: 18pt;
+}
+
+#fat {
+	background-color: #ccc;
+	padding: 10px;
+	border-radius: 10px;
+	width: 100px;
+}
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}

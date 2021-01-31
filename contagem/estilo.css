@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+#cont {
+	background-color: #ccc;
+	border-radius: 10px;
+	padding: 10px;
+	width: 200px;
+}
+
+#go {
+	position: relative;
+	float: right;
+	bottom: 20px;
+}
+
+.caixa {
+	width: 50px;
+	font-size: 13pt;
+}
+
+#de {
+	margin-bottom: 2px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+label {
+	font-size: 13pt;
+}
+
+.botao {
+	padding: 10px;
+	color: #fff;
+	font-size: 15pt;
+	background-color: #08a;
+	border: 2px solid #fff;
+	cursor: pointer;
+}
+
+.botao:hover {
+	background-color: #038;
+}
