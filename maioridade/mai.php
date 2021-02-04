@@ -28,7 +28,7 @@
 		}
 		
 		
-		function mai() {
+		function mai() {// I don't remember why I did this function
 			//$idade = (date("Y") - ($_GET["a"] ?? 1996));
 			
 			if($idade >= MAI) {
