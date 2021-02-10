@@ -1,3 +1,5 @@
+<!-- List of PHP functions and their examples for handling strings -->
+
 <?php
 	
 	echo ; // Escreve na tela
